@@ -1,16 +1,80 @@
-# React + Vite
+# Portfolio - Gabriel Ciriaco de Oliveira Silva
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfólio pessoal desenvolvido em React com Vite, apresentando informações profissionais, formação acadêmica, experiências e projetos.
 
-Currently, two official plugins are available:
+## 🌐 Acesso Online
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O projeto está hospedado no Vercel e pode ser acessado através do link:
 
-## React Compiler
+**[https://proejto-portifolio.vercel.app/](https://proejto-portifolio.vercel.app/)**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📋 Repositório
 
-## Expanding the ESLint configuration
+O código fonte está disponível no GitHub:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**[https://github.com/Gabsgc01/proejto-portifolio](https://github.com/Gabsgc01/proejto-portifolio)**
+
+## 🚀 Como rodar o projeto localmente
+
+### Pré-requisitos
+
+- Node.js (versão 16 ou superior)
+- npm ou yarn
+
+### Instalação
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/Gabsgc01/proejto-portifolio.git
+```
+
+2. Navegue até a pasta do projeto:
+```bash
+cd proejto-portifolio
+```
+
+3. Instale as dependências:
+```bash
+npm install
+```
+
+4. Execute o projeto em modo de desenvolvimento:
+```bash
+npm run dev
+```
+
+5. Abra o navegador e acesse:
+```
+http://localhost:3001
+```
+
+## 📦 Scripts disponíveis
+
+- `npm run dev` - Executa o projeto em modo de desenvolvimento
+- `npm run build` - Gera a build de produção
+- `npm run preview` - Visualiza a build de produção localmente
+
+## 🛠️ Tecnologias utilizadas
+
+- **React 18** - Biblioteca JavaScript para interfaces
+- **Vite** - Build tool e bundler
+- **Framer Motion** - Biblioteca para animações
+- **Lucide React** - Ícones
+- **React Router DOM** - Roteamento
+- **CSS3** - Estilização com variáveis customizadas
+
+## 📱 Seções do Portfolio
+
+- **Início** - Apresentação pessoal e principais competências
+- **Sobre Mim** - Informações detalhadas, missão, visão e valores
+- **Formação Acadêmica** - Cursos e instituições de ensino
+- **Experiência Profissional** - Histórico de trabalhos anteriores
+- **Cursos Complementares** - Certificações e cursos adicionais
+- **Contato** - Redes sociais e formas de contato
+
+## 👨‍💻 Desenvolvedor
+
+Gabriel Ciriaco de Oliveira Silva
+- **Email:** gabrielciriaco123@gmail.com
+- **LinkedIn:** [Gabriel Ciriaco](https://www.linkedin.com/in/gabriel-ciriaco-a43b0a198/)
+- **GitHub:** [Gabsgc01](https://github.com/Gabsgc01)
